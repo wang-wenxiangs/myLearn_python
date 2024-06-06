@@ -1,14 +1,8 @@
 *.idea
 
-node_modules
-
 *.crossnote
 
-cache
-
 *.njs
-
-*.vscode
 
 *.obsidian
 
